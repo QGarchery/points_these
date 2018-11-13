@@ -1,4 +1,0 @@
-- staff : connexion internet
-- inscription : mettre en copie
-- the spirit of ghost code
-
